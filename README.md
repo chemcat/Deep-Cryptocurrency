@@ -1,4 +1,4 @@
-# Deep-Crypocurrency
+# Deep-Cryptocurrency
 Programming enviorment: Jupyter Notebook + Python 3.6
 
 In this project, I'm working on using RNN(e.g. LSTM) to predict the price of cryptocurrency. 
